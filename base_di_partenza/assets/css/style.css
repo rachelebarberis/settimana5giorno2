@@ -138,8 +138,7 @@ span {
   position: relative;
 }
 .striscia {
-  position:absolute;
-  display: block; 
+  position:absolute; 
   margin: -10px;
   width:60%; 
 }
@@ -428,17 +427,14 @@ footer a {
 }
 
 .social {
-  background-image: url('../img/più.png');
   right:10px;
   bottom: 150px;
 }
 .calendar {
-  background-image: url('../img/calendar.png');
   right: 10px;
   bottom: 90px;
 }
 .tornasu {
-  background-image: url('../img/freccia.png');
   right:10px;
   bottom:20px;
 }
